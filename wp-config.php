@@ -20,10 +20,10 @@ define( 'WPCACHEHOME', 'D:\webapp\wordpress\wp-content\plugins\wp-super-cache/' 
 define('DB_NAME', 'wordpress');
 
 /** MySQL 数据库用户名 */
-define('DB_USER', 'root');
+define('DB_USER', '*');
 
 /** MySQL 数据库密码 */
-define('DB_PASSWORD', '112358@my');
+define('DB_PASSWORD', '*');
 
 /** MySQL 主机 */
 define('DB_HOST', 'localhost');
