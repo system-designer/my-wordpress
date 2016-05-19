@@ -1,0 +1,4037 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Virtue v2.2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-10-24 18:20:08+0000\n"
+"Last-Translator: admin <ben@kadencethemes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Norwegian-Nynorsk\n"
+"X-Poedit-Country: NORWAY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:11
+#@ virtue
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr ""
+
+#: 404.php:14
+#@ virtue
+msgid "It looks like this was the result of either:"
+msgstr ""
+
+#: 404.php:16
+#@ virtue
+msgid "a mistyped address"
+msgstr ""
+
+#: 404.php:17
+#@ virtue
+msgid "an out-of-date link"
+msgstr ""
+
+#: archive.php:15
+#: index.php:13
+#: taxonomy-portfolio-type.php:13
+#@ virtue
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: lib/authorbox.php:5
+#@ virtue
+msgid "About Author"
+msgstr ""
+
+#: lib/authorbox.php:6
+#: lib/utils.php:60
+#@ virtue
+msgid "Latest Posts"
+msgstr "Test"
+
+#: lib/authorbox.php:13
+#: lib/authorbox.php:16
+#: lib/authorbox.php:20
+#: lib/authorbox.php:24
+#: lib/authorbox.php:28
+#: lib/authorbox.php:32
+#: lib/authorbox.php:36
+#: lib/authorbox.php:40
+#: lib/authorbox.php:44
+#: lib/authorbox.php:48
+#@ virtue
+msgid "Follow"
+msgstr ""
+
+#: lib/authorbox.php:16
+#@ virtue
+msgid "on Facebook"
+msgstr ""
+
+#: lib/authorbox.php:20
+#@ virtue
+msgid "on Twitter"
+msgstr ""
+
+#: lib/authorbox.php:24
+#@ virtue
+msgid "on Google Plus"
+msgstr ""
+
+#: lib/authorbox.php:28
+#@ virtue
+msgid "on Flickr"
+msgstr ""
+
+#: lib/authorbox.php:32
+#@ virtue
+msgid "on Vimeo"
+msgstr ""
+
+#: lib/authorbox.php:36
+#@ virtue
+msgid "on linkedin"
+msgstr ""
+
+#: lib/authorbox.php:40
+#@ virtue
+msgid "on Dribbble"
+msgstr ""
+
+#: lib/authorbox.php:44
+#@ virtue
+msgid "on Pinterest"
+msgstr ""
+
+#: lib/authorbox.php:48
+#@ virtue
+msgid "on Instagram"
+msgstr ""
+
+#: lib/authorbox.php:65
+#@ virtue
+msgid "Latest posts from"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:155
+#: lib/virtuetoolkit-activate.php:34
+#@ virtue
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:156
+#: lib/virtuetoolkit-activate.php:35
+#@ virtue
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:157
+#: lib/virtuetoolkit-activate.php:36
+#, php-format
+#@ virtue
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:158
+#@ virtue
+msgid "Something went wrong."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:159
+#: lib/virtuetoolkit-activate.php:38
+#, php-format
+#@ virtue
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:160
+#, php-format
+#@ virtue
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:161
+#: lib/virtuetoolkit-activate.php:40
+#, php-format
+#@ virtue
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:162
+#: lib/virtuetoolkit-activate.php:41
+#, php-format
+#@ virtue
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:163
+#: lib/virtuetoolkit-activate.php:42
+#, php-format
+#@ virtue
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:164
+#: lib/virtuetoolkit-activate.php:43
+#, php-format
+#@ virtue
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:165
+#: lib/virtuetoolkit-activate.php:44
+#, php-format
+#@ virtue
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:166
+#: lib/virtuetoolkit-activate.php:45
+#, php-format
+#@ virtue
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:167
+#: lib/virtuetoolkit-activate.php:46
+#@ virtue
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:168
+#: lib/virtuetoolkit-activate.php:47
+#@ virtue
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:169
+#: lib/virtuetoolkit-activate.php:48
+#@ virtue
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:170
+#@ virtue
+msgid "Return to the dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:171
+#: lib/class-tgm-plugin-activation.php:1838
+#: lib/virtuetoolkit-activate.php:49
+#@ virtue
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:173
+#, php-format
+#@ virtue
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:174
+#@ virtue
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1084
+#@ virtue
+msgid "External Link"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1089
+#@ virtue
+msgid "Private Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1092
+#@ virtue
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1096
+#@ virtue
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1099
+#@ virtue
+msgid "Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1099
+#@ virtue
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1102
+#@ virtue
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1104
+#@ virtue
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1274
+#, php-format
+#@ virtue
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1290
+#@ virtue
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1291
+#@ virtue
+msgid "Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1292
+#@ virtue
+msgid "Type"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1293
+#@ virtue
+msgid "Status"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1311
+#@ virtue
+msgid "Install"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1312
+#@ virtue
+msgid "Activate"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: lib/class-tgm-plugin-activation.php:1536
+#: lib/class-tgm-plugin-activation.php:172
+#@ virtue
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:1821
+#@ virtue
+msgid "Install package not available."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1822
+#, php-format
+#@ virtue
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1823
+#@ virtue
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1824
+#@ virtue
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1825
+#@ virtue
+msgid "Plugin install failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1826
+#@ virtue
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1837
+#@ virtue
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1947
+#@ virtue
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1948
+#, php-format
+#@ virtue
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1948
+#: lib/class-tgm-plugin-activation.php:1957
+#@ virtue
+msgid "Show Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1948
+#: lib/class-tgm-plugin-activation.php:1957
+#@ virtue
+msgid "Hide Details"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1949
+#@ virtue
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1950
+#, php-format
+#@ virtue
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1954
+#@ virtue
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1955
+#, php-format
+#@ virtue
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1956
+#, php-format
+#@ virtue
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1957
+#, php-format
+#@ virtue
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1958
+#@ virtue
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1959
+#, php-format
+#@ virtue
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2050
+#@ virtue
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/cleanup.php:143
+#@ virtue
+msgid "Continued"
+msgstr ""
+
+#: lib/cmb/helpers/cmb_Meta_Box_ajax.php:47
+#@ cmb
+msgid "Please Try Again"
+msgstr ""
+
+#: lib/cmb/helpers/cmb_Meta_Box_ajax.php:131
+#@ cmb
+msgid "Remove Embed"
+msgstr ""
+
+#: lib/cmb/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+#@ cmb
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: lib/cmb/helpers/cmb_Meta_Box_types.php:150
+#@ cmb
+msgid "Add Row"
+msgstr ""
+
+#: lib/cmb/helpers/cmb_Meta_Box_types.php:178
+#: lib/cmb/helpers/cmb_Meta_Box_types.php:547
+#: lib/cmb/helpers/cmb_Meta_Box_types.php:590
+#: themeoptions/inc/fields/background/field_background.php:321
+#: themeoptions/inc/fields/media/field_media.php:200
+#: themeoptions/inc/fields/multi_text/field_multi_text.php:69
+#: themeoptions/inc/fields/multi_text/field_multi_text.php:73
+#: themeoptions/inc/fields/multi_text/field_multi_text.php:76
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:116
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:182
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:115
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:161
+#@ cmb
+#@ redux-framework
+#@ virtue
+msgid "Remove"
+msgstr ""
+
+#: lib/cmb/helpers/cmb_Meta_Box_types.php:523
+#: lib/cmb/helpers/cmb_Meta_Box_types.php:563
+#@ cmb
+msgid "Add or Upload File"
+msgstr ""
+
+#: lib/cmb/helpers/cmb_Meta_Box_types.php:536
+#: lib/cmb/helpers/cmb_Meta_Box_types.php:582
+#@ cmb
+msgid "Remove Image"
+msgstr ""
+
+#: lib/cmb/helpers/cmb_Meta_Box_types.php:547
+#: lib/cmb/helpers/cmb_Meta_Box_types.php:590
+#@ cmb
+msgid "File:"
+msgstr ""
+
+#: lib/cmb/helpers/cmb_Meta_Box_types.php:547
+#: lib/cmb/helpers/cmb_Meta_Box_types.php:590
+#: themeoptions/inc/import_export.php:104
+#@ cmb
+#@ redux-framework
+msgid "Download"
+msgstr ""
+
+#: lib/cmb/init.php:243
+#@ virtue
+msgid "Clear"
+msgstr ""
+
+#: lib/cmb/init.php:244
+#: lib/metaboxes.php:98
+#: lib/metaboxes.php:123
+#: themeoptions/framework.php:2155
+#@ virtue
+#@ redux-framework
+msgid "Default"
+msgstr ""
+
+#: lib/cmb/init.php:245
+#@ virtue
+msgid "Select Color"
+msgstr ""
+
+#: lib/cmb/init.php:246
+#@ virtue
+msgid "Current Color"
+msgstr ""
+
+#: lib/cmb/init.php:1185
+#@ cmb
+msgid "Save"
+msgstr ""
+
+#: lib/comments.php:38
+#: templates/comment.php:5
+#, php-format
+#@ virtue
+msgid "%1$s"
+msgstr ""
+
+#: lib/comments.php:43
+#@ virtue
+msgid "| (Edit)"
+msgstr ""
+
+#: lib/comments.php:49
+#: templates/comment.php:11
+#@ virtue
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/custom-woocommerce.php:95
+#: templates/header.php:30
+#@ virtue
+#@ woocommerce
+msgid "View your shopping cart"
+msgstr ""
+
+#: lib/custom-woocommerce.php:96
+#: templates/header.php:31
+#@ virtue
+msgid "Your Cart"
+msgstr ""
+
+#: lib/custom.php:387
+#: templates/entry-post-links.php:3
+#@ virtue
+msgid "Previous Post"
+msgstr ""
+
+#: lib/custom.php:387
+#: templates/entry-post-links.php:6
+#@ virtue
+msgid "Next Post"
+msgstr ""
+
+#: lib/custom.php:479
+#@ virtue
+msgid "Occupation"
+msgstr ""
+
+#: lib/custom.php:482
+#@ virtue
+msgid "Please enter your Occupation."
+msgstr ""
+
+#: lib/custom.php:489
+#@ virtue
+msgid "Please enter your Twitter username."
+msgstr ""
+
+#: lib/custom.php:496
+#@ virtue
+msgid "Please enter your Facebook url. (be sure to include http://)"
+msgstr ""
+
+#: lib/custom.php:503
+#@ virtue
+msgid "Please enter your Google Plus url. (be sure to include http://)"
+msgstr ""
+
+#: lib/custom.php:510
+#@ virtue
+msgid "Please enter your Flickr url. (be sure to include http://)"
+msgstr ""
+
+#: lib/custom.php:517
+#@ virtue
+msgid "Please enter your Linkedin url. (be sure to include http://)"
+msgstr ""
+
+#: lib/custom.php:524
+#@ virtue
+msgid "Please enter your Dribbble url. (be sure to include http://)"
+msgstr ""
+
+#: lib/custom.php:531
+#@ virtue
+msgid "Please enter your Pinterest url. (be sure to include http://)"
+msgstr ""
+
+#: lib/custom.php:538
+#@ virtue
+msgid "Please enter your Instagram url. (be sure to include http://)"
+msgstr ""
+
+#: lib/gallery_metabox.php:8
+#@ virtue
+msgid "Post Slider Images"
+msgstr ""
+
+#: lib/gallery_metabox.php:9
+#@ virtue
+msgid "Portfolio Slider Images"
+msgstr ""
+
+#: lib/gallery_metabox.php:10
+#@ virtue
+msgid "Feature Page Slider Images"
+msgstr ""
+
+#: lib/gallery_metabox.php:26
+#: lib/gallery_metabox.php:91
+#@ virtue
+msgid "Remove image"
+msgstr ""
+
+#: lib/gallery_metabox.php:37
+#@ virtue
+msgid "Add images"
+msgstr ""
+
+#: lib/gallery_metabox.php:66
+#@ virtue
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: lib/gallery_metabox.php:68
+#@ virtue
+msgid "Add to gallery"
+msgstr ""
+
+#: lib/init.php:9
+#@ virtue
+msgid "Primary Navigation"
+msgstr ""
+
+#: lib/init.php:10
+#@ virtue
+msgid "Secondary Navigation"
+msgstr ""
+
+#: lib/init.php:11
+#@ virtue
+msgid "Mobile Navigation"
+msgstr ""
+
+#: lib/init.php:12
+#@ virtue
+msgid "Topbar Navigation"
+msgstr ""
+
+#: lib/init.php:13
+#@ virtue
+msgid "Footer Navigation"
+msgstr ""
+
+#: lib/metaboxes.php:21
+#: lib/metaboxes.php:381
+#: lib/metaboxes.php:506
+#@ virtue
+msgid "All"
+msgstr ""
+
+#: lib/metaboxes.php:36
+#@ virtue
+msgid "All Blog Posts"
+msgstr ""
+
+#: lib/metaboxes.php:68
+#@ virtue
+msgid "Page Title and Subtitle"
+msgstr ""
+
+#: lib/metaboxes.php:75
+#@ virtue
+msgid "Subtitle"
+msgstr ""
+
+#: lib/metaboxes.php:76
+#@ virtue
+msgid "Subtitle will go below page title"
+msgstr ""
+
+#: lib/metaboxes.php:85
+#@ virtue
+msgid "Post Options"
+msgstr ""
+
+#: lib/metaboxes.php:93
+#@ virtue
+msgid "Head Content"
+msgstr ""
+
+#: lib/metaboxes.php:99
+#: lib/metaboxes.php:225
+#: themeoptions/options.php:1505
+#@ virtue
+msgid "None"
+msgstr ""
+
+#: lib/metaboxes.php:100
+#: lib/metaboxes.php:222
+#: lib/metaboxes.php:448
+#: themeoptions/options.php:1505
+#@ virtue
+msgid "Image Slider"
+msgstr ""
+
+#: lib/metaboxes.php:101
+#: lib/metaboxes.php:129
+#: lib/metaboxes.php:224
+#: lib/metaboxes.php:449
+#: themeoptions/options.php:1505
+#@ virtue
+msgid "Video"
+msgstr ""
+
+#: lib/metaboxes.php:102
+#: lib/metaboxes.php:221
+#: lib/metaboxes.php:450
+#: themeoptions/options.php:1505
+#@ virtue
+msgid "Image"
+msgstr ""
+
+#: lib/metaboxes.php:106
+#: lib/metaboxes.php:229
+#: lib/metaboxes.php:454
+#@ virtue
+msgid "Max Image/Slider Height"
+msgstr ""
+
+#: lib/metaboxes.php:107
+#: lib/metaboxes.php:455
+#@ virtue
+msgid "Default is: 400 <b>(Note: just input number, example: 350)</b>"
+msgstr ""
+
+#: lib/metaboxes.php:112
+#: lib/metaboxes.php:235
+#: lib/metaboxes.php:460
+#@ virtue
+msgid "Max Image/Slider Width"
+msgstr ""
+
+#: lib/metaboxes.php:113
+#@ virtue
+msgid "Default is: 770 or 1140 on fullwidth posts <b>(Note: just input number, example: 650, does not apply to carousel slider)</b>"
+msgstr ""
+
+#: lib/metaboxes.php:118
+#@ virtue
+msgid "Post Summary"
+msgstr ""
+
+#: lib/metaboxes.php:124
+#@ virtue
+msgid "Text"
+msgstr ""
+
+#: lib/metaboxes.php:125
+#@ virtue
+msgid "Portrait Image"
+msgstr ""
+
+#: lib/metaboxes.php:126
+#@ virtue
+msgid "Landscape Image"
+msgstr ""
+
+#: lib/metaboxes.php:127
+#@ virtue
+msgid "Portrait Image Slider"
+msgstr ""
+
+#: lib/metaboxes.php:128
+#@ virtue
+msgid "Landscape Image Slider"
+msgstr ""
+
+#: lib/metaboxes.php:133
+#: lib/metaboxes.php:535
+#@ virtue
+msgid "Display Sidebar?"
+msgstr ""
+
+#: lib/metaboxes.php:134
+#: lib/metaboxes.php:536
+#@ virtue
+msgid "Choose if layout is fullwidth or sidebar"
+msgstr ""
+
+#: lib/metaboxes.php:138
+#: lib/metaboxes.php:155
+#: lib/metaboxes.php:246
+#: lib/metaboxes.php:425
+#: lib/metaboxes.php:471
+#: lib/metaboxes.php:540
+#: lib/metaboxes.php:568
+#: lib/metaboxes.php:584
+#: lib/metaboxes.php:595
+#@ virtue
+msgid "Yes"
+msgstr ""
+
+#: lib/metaboxes.php:139
+#: lib/metaboxes.php:154
+#: lib/metaboxes.php:164
+#: lib/metaboxes.php:247
+#: lib/metaboxes.php:322
+#: lib/metaboxes.php:424
+#: lib/metaboxes.php:472
+#: lib/metaboxes.php:541
+#: lib/metaboxes.php:569
+#: lib/metaboxes.php:585
+#: lib/metaboxes.php:594
+#@ virtue
+msgid "No"
+msgstr ""
+
+#: lib/metaboxes.php:143
+#: lib/metaboxes.php:545
+#: lib/metaboxes.php:665
+#@ virtue
+msgid "Choose Sidebar"
+msgstr ""
+
+#: lib/metaboxes.php:149
+#@ virtue
+msgid "Author Info"
+msgstr ""
+
+#: lib/metaboxes.php:150
+#@ virtue
+msgid "Display an author info box?"
+msgstr ""
+
+#: lib/metaboxes.php:159
+#@ virtue
+msgid "Posts Carousel"
+msgstr ""
+
+#: lib/metaboxes.php:160
+#@ virtue
+msgid "Display a carousel with similar or recent posts?"
+msgstr ""
+
+#: lib/metaboxes.php:165
+#@ virtue
+msgid "Yes - Display Recent Posts"
+msgstr ""
+
+#: lib/metaboxes.php:166
+#@ virtue
+msgid "Yes - Display Similar Posts"
+msgstr ""
+
+#: lib/metaboxes.php:171
+#: lib/metaboxes.php:327
+#@ virtue
+msgid "Carousel Title"
+msgstr ""
+
+#: lib/metaboxes.php:172
+#@ virtue
+msgid "ex. Similar Posts"
+msgstr ""
+
+#: lib/metaboxes.php:180
+#@ virtue
+msgid "Post Video Box"
+msgstr ""
+
+#: lib/metaboxes.php:188
+#: lib/metaboxes.php:476
+#@ virtue
+msgid "If Video Post"
+msgstr ""
+
+#: lib/metaboxes.php:189
+#: lib/metaboxes.php:312
+#: lib/metaboxes.php:477
+#@ virtue
+msgid "Place Embed Code Here, works with youtube, vimeo..."
+msgstr ""
+
+#: lib/metaboxes.php:197
+#@ virtue
+msgid "Portfolio Post Options"
+msgstr ""
+
+#: lib/metaboxes.php:205
+#@ virtue
+msgid "Project Layout"
+msgstr ""
+
+#: lib/metaboxes.php:210
+#@ virtue
+msgid "Beside"
+msgstr ""
+
+#: lib/metaboxes.php:211
+#@ virtue
+msgid "Above"
+msgstr ""
+
+#: lib/metaboxes.php:212
+#@ virtue
+msgid "Three Rows"
+msgstr ""
+
+#: lib/metaboxes.php:216
+#@ virtue
+msgid "Project Options"
+msgstr ""
+
+#: lib/metaboxes.php:223
+#@ virtue
+msgid "Carousel Slider"
+msgstr ""
+
+#: lib/metaboxes.php:230
+#@ virtue
+msgid "Default is: 450 <b>(Note: just input number, example: 350)</b>"
+msgstr ""
+
+#: lib/metaboxes.php:236
+#@ virtue
+msgid "Default is: 670 or 1140 on <b>above</b> or <b>three row</b> layouts (Note: just input number, example: 650)</b>"
+msgstr ""
+
+#: lib/metaboxes.php:241
+#@ virtue
+msgid "Auto Play Slider?"
+msgstr ""
+
+#: lib/metaboxes.php:251
+#@ virtue
+msgid "Value 01 Title"
+msgstr ""
+
+#: lib/metaboxes.php:252
+#@ virtue
+msgid "ex. Project Type:"
+msgstr ""
+
+#: lib/metaboxes.php:257
+#@ virtue
+msgid "Value 01 Description"
+msgstr ""
+
+#: lib/metaboxes.php:258
+#@ virtue
+msgid "ex. Character Illustration"
+msgstr ""
+
+#: lib/metaboxes.php:263
+#@ virtue
+msgid "Value 02 Title"
+msgstr ""
+
+#: lib/metaboxes.php:264
+#@ virtue
+msgid "ex. Skills Needed:"
+msgstr ""
+
+#: lib/metaboxes.php:269
+#@ virtue
+msgid "Value 02 Description"
+msgstr ""
+
+#: lib/metaboxes.php:270
+#@ virtue
+msgid "ex. Photoshop, Illustrator"
+msgstr ""
+
+#: lib/metaboxes.php:275
+#@ virtue
+msgid "Value 03 Title"
+msgstr ""
+
+#: lib/metaboxes.php:276
+#@ virtue
+msgid "ex. Customer:"
+msgstr ""
+
+#: lib/metaboxes.php:281
+#@ virtue
+msgid "Value 03 Description"
+msgstr ""
+
+#: lib/metaboxes.php:282
+#@ virtue
+msgid "ex. Example Inc"
+msgstr ""
+
+#: lib/metaboxes.php:287
+#@ virtue
+msgid "Value 04 Title"
+msgstr ""
+
+#: lib/metaboxes.php:288
+#@ virtue
+msgid "ex. Project Year:"
+msgstr ""
+
+#: lib/metaboxes.php:293
+#@ virtue
+msgid "Value 04 Description"
+msgstr ""
+
+#: lib/metaboxes.php:294
+#@ virtue
+msgid "ex. 2013"
+msgstr ""
+
+#: lib/metaboxes.php:299
+#@ virtue
+msgid "External Website"
+msgstr ""
+
+#: lib/metaboxes.php:300
+#@ virtue
+msgid "ex. Website:"
+msgstr ""
+
+#: lib/metaboxes.php:305
+#@ virtue
+msgid "Website Address"
+msgstr ""
+
+#: lib/metaboxes.php:306
+#@ virtue
+msgid "ex. http://www.example.com"
+msgstr ""
+
+#: lib/metaboxes.php:311
+#@ virtue
+msgid "If Video Project"
+msgstr ""
+
+#: lib/metaboxes.php:317
+#@ virtue
+msgid "Similar Portfolio Item Carousel"
+msgstr ""
+
+#: lib/metaboxes.php:318
+#@ virtue
+msgid "Display a carousel with similar portfolio items below project?"
+msgstr ""
+
+#: lib/metaboxes.php:323
+#@ virtue
+msgid "Yes - Display Recent Projects"
+msgstr ""
+
+#: lib/metaboxes.php:328
+#@ virtue
+msgid "ex. Similar Projects"
+msgstr ""
+
+#: lib/metaboxes.php:337
+#@ virtue
+msgid "Portfolio Page Options"
+msgstr ""
+
+#: lib/metaboxes.php:346
+#@ virtue
+msgid "Columns"
+msgstr ""
+
+#: lib/metaboxes.php:351
+#@ virtue
+msgid "Four Column"
+msgstr ""
+
+#: lib/metaboxes.php:352
+#@ virtue
+msgid "Three Column"
+msgstr ""
+
+#: lib/metaboxes.php:353
+#@ virtue
+msgid "Two Column"
+msgstr ""
+
+#: lib/metaboxes.php:357
+#@ virtue
+msgid "Portfolio Work Types"
+msgstr ""
+
+#: lib/metaboxes.php:364
+#@ virtue
+msgid "Order Items By"
+msgstr ""
+
+#: lib/metaboxes.php:369
+#@ virtue
+msgid "Menu Order"
+msgstr ""
+
+#: lib/metaboxes.php:370
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:142
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:208
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:122
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:168
+#@ virtue
+msgid "Title"
+msgstr ""
+
+#: lib/metaboxes.php:371
+#@ virtue
+msgid "Date"
+msgstr ""
+
+#: lib/metaboxes.php:372
+#@ virtue
+msgid "Random"
+msgstr ""
+
+#: lib/metaboxes.php:376
+#@ virtue
+msgid "Items per Page"
+msgstr ""
+
+#: lib/metaboxes.php:377
+#@ virtue
+msgid "How many portfolio items per page"
+msgstr ""
+
+#: lib/metaboxes.php:399
+#@ virtue
+msgid "Set image height"
+msgstr ""
+
+#: lib/metaboxes.php:400
+#@ virtue
+msgid "Default is 1:1 ratio <b>(Note: just input number, example: 350)</b>"
+msgstr ""
+
+#: lib/metaboxes.php:405
+#@ virtue
+msgid "Display Item Work Types"
+msgstr ""
+
+#: lib/metaboxes.php:412
+#@ virtue
+msgid "Display Item Excerpt"
+msgstr ""
+
+#: lib/metaboxes.php:419
+#@ virtue
+msgid "Add Lightbox link in the top right of each item"
+msgstr ""
+
+#: lib/metaboxes.php:434
+#@ virtue
+msgid "Feature Page Options"
+msgstr ""
+
+#: lib/metaboxes.php:443
+#@ virtue
+msgid "Feature Options"
+msgstr ""
+
+#: lib/metaboxes.php:444
+#@ virtue
+msgid "If image slider make sure images uploaded are at least 1140px wide."
+msgstr ""
+
+#: lib/metaboxes.php:461
+#@ virtue
+msgid "Default is: 1140 <b>(Note: just input number, example: 650, does not apply to Carousel slider)</b>"
+msgstr ""
+
+#: lib/metaboxes.php:466
+#@ virtue
+msgid "Use Lightbox for Feature Image"
+msgstr ""
+
+#: lib/metaboxes.php:467
+#@ virtue
+msgid "If feature option is set to image, choose to use lightbox link with image."
+msgstr ""
+
+#: lib/metaboxes.php:485
+#@ virtue
+msgid "Blog List Options"
+msgstr ""
+
+#: lib/metaboxes.php:494
+#@ virtue
+msgid "Blog Category"
+msgstr ""
+
+#: lib/metaboxes.php:495
+#@ virtue
+msgid "Select all blog posts or a specific category to show"
+msgstr ""
+
+#: lib/metaboxes.php:501
+#@ virtue
+msgid "How Many Posts Per Page"
+msgstr ""
+
+#: lib/metaboxes.php:525
+#@ virtue
+msgid "Display Post Content as:"
+msgstr ""
+
+#: lib/metaboxes.php:530
+#@ virtue
+msgid "Summary"
+msgstr ""
+
+#: lib/metaboxes.php:531
+#@ virtue
+msgid "Full"
+msgstr ""
+
+#: lib/metaboxes.php:554
+#@ virtue
+msgid "Contact Page Options"
+msgstr ""
+
+#: lib/metaboxes.php:563
+#@ virtue
+msgid "Use Contact Form"
+msgstr ""
+
+#: lib/metaboxes.php:573
+#@ virtue
+msgid "Contact Form Title"
+msgstr ""
+
+#: lib/metaboxes.php:574
+#@ virtue
+msgid "ex. Send us an Email"
+msgstr ""
+
+#: lib/metaboxes.php:579
+#@ virtue
+msgid "Use Simple Math Question"
+msgstr ""
+
+#: lib/metaboxes.php:589
+#@ virtue
+msgid "Use Map"
+msgstr ""
+
+#: lib/metaboxes.php:599
+#@ virtue
+msgid "Address"
+msgstr ""
+
+#: lib/metaboxes.php:600
+#@ virtue
+msgid "Enter your Location"
+msgstr ""
+
+#: lib/metaboxes.php:605
+#@ virtue
+msgid "Map Type"
+msgstr ""
+
+#: lib/metaboxes.php:610
+#@ virtue
+msgid "ROADMAP"
+msgstr ""
+
+#: lib/metaboxes.php:611
+#@ virtue
+msgid "HYBRID"
+msgstr ""
+
+#: lib/metaboxes.php:612
+#@ virtue
+msgid "TERRAIN"
+msgstr ""
+
+#: lib/metaboxes.php:613
+#@ virtue
+msgid "SATELLITE"
+msgstr ""
+
+#: lib/metaboxes.php:617
+#@ virtue
+msgid "Map Zoom Level"
+msgstr ""
+
+#: lib/metaboxes.php:618
+#@ virtue
+msgid "A good place to start is 15"
+msgstr ""
+
+#: lib/metaboxes.php:623
+#@ virtue
+msgid "1 (World View)"
+msgstr ""
+
+#: lib/metaboxes.php:643
+#@ virtue
+msgid "21 (Street View)"
+msgstr ""
+
+#: lib/metaboxes.php:647
+#@ virtue
+msgid "Map Height"
+msgstr ""
+
+#: lib/metaboxes.php:648
+#@ virtue
+msgid "Default is 300"
+msgstr ""
+
+#: lib/metaboxes.php:656
+#@ virtue
+msgid "Sidebar Options"
+msgstr ""
+
+#: lib/scripts.php:33
+#@ woocommerce
+msgid "Sorry, no products matched your selection. Please choose a different combination."
+msgstr ""
+
+#: lib/scripts.php:34
+#@ woocommerce
+msgid "Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: lib/utils.php:69
+#, php-format
+#@ virtue
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: lib/utils.php:71
+#, php-format
+#@ virtue
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: lib/utils.php:73
+#, php-format
+#@ virtue
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: lib/utils.php:75
+#, php-format
+#@ virtue
+msgid "Author Archives: %s"
+msgstr ""
+
+#: lib/utils.php:81
+#, php-format
+#@ virtue
+msgid "Search Results for %s"
+msgstr ""
+
+#: lib/utils.php:84
+#@ virtue
+msgid "Not Found"
+msgstr ""
+
+#: lib/virtuetoolkit-activate.php:37
+#@ virtue
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/virtuetoolkit-activate.php:39
+#, php-format
+#@ virtue
+msgid "This theme comes packaged with the following premium plugin: %1$s. enjoy:)"
+msgid_plural "This theme comes packaged with the following premium plugin: %1$s. enjoy:)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/virtuetoolkit-activate.php:50
+#, php-format
+#@ virtue
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: lib/widgets.php:6
+#: lib/widgets.php:59
+#@ virtue
+msgid "Primary Sidebar"
+msgstr ""
+
+#: lib/widgets.php:49
+#: templates/header.php:40
+#@ virtue
+msgid "Topbar Widget"
+msgstr ""
+
+#: lib/widgets.php:71
+#: lib/widgets.php:112
+#: lib/widgets.php:143
+#@ virtue
+msgid "Footer Column 1"
+msgstr ""
+
+#: lib/widgets.php:81
+#: lib/widgets.php:122
+#: lib/widgets.php:153
+#@ virtue
+msgid "Footer Column 2"
+msgstr ""
+
+#: lib/widgets.php:91
+#: lib/widgets.php:132
+#@ virtue
+msgid "Footer Column 3"
+msgstr ""
+
+#: lib/widgets.php:101
+#@ virtue
+msgid "Footer Column 4"
+msgstr ""
+
+#: lib/widgets.php:177
+#@ virtue
+msgid "Use this widget to add a Vcard to your site"
+msgstr ""
+
+#: lib/widgets.php:178
+#@ virtue
+msgid "Virtue: Contact/Vcard"
+msgstr ""
+
+#: lib/widgets.php:205
+#@ virtue
+msgid "vCard"
+msgstr ""
+
+#: lib/widgets.php:281
+#: lib/widgets.php:448
+#: lib/widgets.php:608
+#: lib/widgets.php:746
+#@ virtue
+msgid "Title:"
+msgstr ""
+
+#: lib/widgets.php:285
+#@ virtue
+msgid "Company Name:"
+msgstr ""
+
+#: lib/widgets.php:289
+#: page-contact.php:175
+#@ virtue
+msgid "Name:"
+msgstr ""
+
+#: lib/widgets.php:293
+#@ virtue
+msgid "Street Address:"
+msgstr ""
+
+#: lib/widgets.php:297
+#@ virtue
+msgid "City/Locality:"
+msgstr ""
+
+#: lib/widgets.php:301
+#@ virtue
+msgid "State/Region:"
+msgstr ""
+
+#: lib/widgets.php:305
+#@ virtue
+msgid "Zipcode/Postal Code:"
+msgstr ""
+
+#: lib/widgets.php:309
+#@ virtue
+msgid "Mobile Telephone:"
+msgstr ""
+
+#: lib/widgets.php:313
+#@ virtue
+msgid "Fixed Telephone:"
+msgstr ""
+
+#: lib/widgets.php:317
+#@ virtue
+msgid "Email:"
+msgstr ""
+
+#: lib/widgets.php:328
+#@ virtue
+msgid "Simple way to add Social Icons"
+msgstr ""
+
+#: lib/widgets.php:329
+#@ virtue
+msgid "Virtue: Social Links"
+msgstr ""
+
+#: lib/widgets.php:452
+#@ virtue
+msgid "Facebook:"
+msgstr ""
+
+#: lib/widgets.php:456
+#@ virtue
+msgid "Twitter:"
+msgstr ""
+
+#: lib/widgets.php:460
+#@ virtue
+msgid "Instagram:"
+msgstr ""
+
+#: lib/widgets.php:464
+#@ virtue
+msgid "GooglePlus:"
+msgstr ""
+
+#: lib/widgets.php:468
+#@ virtue
+msgid "Flickr:"
+msgstr ""
+
+#: lib/widgets.php:472
+#@ virtue
+msgid "Vimeo:"
+msgstr ""
+
+#: lib/widgets.php:476
+#@ virtue
+msgid "Youtube:"
+msgstr ""
+
+#: lib/widgets.php:480
+#@ virtue
+msgid "Pinterest:"
+msgstr ""
+
+#: lib/widgets.php:484
+#@ virtue
+msgid "Dribbble:"
+msgstr ""
+
+#: lib/widgets.php:488
+#@ virtue
+msgid "Linkedin:"
+msgstr ""
+
+#: lib/widgets.php:492
+#@ virtue
+msgid "Tumblr:"
+msgstr ""
+
+#: lib/widgets.php:496
+#@ virtue
+msgid "VK:"
+msgstr ""
+
+#: lib/widgets.php:500
+#@ virtue
+msgid "RSS:"
+msgstr ""
+
+#: lib/widgets.php:514
+#@ virtue
+msgid "This shows the most recent posts on your site with a thumbnail"
+msgstr ""
+
+#: lib/widgets.php:515
+#@ virtue
+msgid "Virtue: Recent Posts"
+msgstr ""
+
+#: lib/widgets.php:540
+#: templates/recentblog-carousel.php:2
+#@ virtue
+msgid "Recent Posts"
+msgstr ""
+
+#: lib/widgets.php:611
+#@ virtue
+msgid "Number of posts to show:"
+msgstr ""
+
+#: lib/widgets.php:614
+#@ virtue
+msgid "Limit to Catagory (Optional):"
+msgstr ""
+
+#: lib/widgets.php:625
+#@ virtue
+msgid "This shows a grid of featured images from recent posts or portfolio items"
+msgstr ""
+
+#: lib/widgets.php:626
+#@ virtue
+msgid "Virtue: Image Grid"
+msgstr ""
+
+#: lib/widgets.php:651
+#@ virtue
+msgid "Post Gallery"
+msgstr ""
+
+#: lib/widgets.php:749
+#@ virtue
+msgid "Grid Choice:"
+msgstr ""
+
+#: lib/widgets.php:751
+#@ virtue
+msgid "Blog Posts"
+msgstr ""
+
+#: lib/widgets.php:752
+#@ virtue
+msgid "Portfolio"
+msgstr ""
+
+#: lib/widgets.php:755
+#@ virtue
+msgid "If Post - Choose Category (Optional):"
+msgstr ""
+
+#: lib/widgets.php:758
+#@ virtue
+msgid "If Portfolio - Choose Type (Optional):"
+msgstr ""
+
+#: lib/widgets.php:761
+#@ virtue
+msgid "Number of images to show:"
+msgstr ""
+
+#: lib/widgets.php:788
+#@ virtue
+msgid "This allows for an image and a simple about text."
+msgstr ""
+
+#: lib/widgets.php:789
+#@ virtue
+msgid "Virtue: Image"
+msgstr ""
+
+#: lib/widgets.php:843
+#@ virtue
+msgid "Lightbox"
+msgstr ""
+
+#: lib/widgets.php:844
+#@ virtue
+msgid "New Window"
+msgstr ""
+
+#: lib/widgets.php:845
+#@ virtue
+msgid "Same Window"
+msgstr ""
+
+#: lib/widgets.php:846
+#@ virtue
+msgid "No Link"
+msgstr ""
+
+#: lib/widgets.php:858
+#@ virtue
+msgid "Image URL"
+msgstr ""
+
+#: lib/widgets.php:860
+#: themeoptions/inc/fields/background/field_background.php:314
+#: themeoptions/inc/fields/media/field_media.php:193
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:108
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:159
+#@ virtue
+#@ redux-framework
+msgid "Upload"
+msgstr ""
+
+#: lib/widgets.php:863
+#@ virtue
+msgid "Image opens in"
+msgstr ""
+
+#: lib/widgets.php:867
+#@ virtue
+msgid "Image Link (optional)"
+msgstr ""
+
+#: lib/widgets.php:871
+#@ virtue
+msgid "Text/Caption (optional)"
+msgstr ""
+
+#: page-blog.php:53
+#: templates/home/blog-home.php:102
+#: templates/home/latest-slider.php:32
+#: templates/recentblog-carousel.php:48
+#: templates/similarblog-carousel.php:53
+#@ virtue
+msgid "Sorry, no blog entries found."
+msgstr ""
+
+#: page-contact.php:86
+#@ virtue
+msgid "Check your math."
+msgstr ""
+
+#: page-contact.php:91
+#@ virtue
+msgid "Please enter your name."
+msgstr ""
+
+#: page-contact.php:98
+#@ virtue
+msgid "Please enter your email address."
+msgstr ""
+
+#: page-contact.php:101
+#@ virtue
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: page-contact.php:108
+#@ virtue
+msgid "Please enter a message."
+msgstr ""
+
+#: page-contact.php:125
+#@ virtue
+msgid " Contact"
+msgstr ""
+
+#: page-contact.php:125
+#@ virtue
+msgid "From "
+msgstr ""
+
+#: page-contact.php:126
+#: templates/comments.php:68
+#: woocommerce/single-product-reviews.php:62
+#@ virtue
+#@ woocommerce
+msgid "Name"
+msgstr ""
+
+#: page-contact.php:127
+#@ virtue
+msgid "From"
+msgstr ""
+
+#: page-contact.php:165
+#@ virtue
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: page-contact.php:169
+#@ virtue
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: page-contact.php:184
+#@ virtue
+msgid "Email: "
+msgstr ""
+
+#: page-contact.php:190
+#@ virtue
+msgid "Message: "
+msgstr ""
+
+#: page-contact.php:207
+#@ virtue
+msgid "Send Email"
+msgstr ""
+
+#: page-portfolio.php:102
+#: templates/home/portfolio-carousel.php:60
+#: templates/recentportfolio-carousel.php:42
+#@ virtue
+msgid "Sorry, no portfolio entries found."
+msgstr ""
+
+#: searchform.php:2
+#@ virtue
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:3
+#@ virtue
+msgid "Search"
+msgstr ""
+
+#: templates/account-sidebar.php:18
+#@ virtue
+msgid "Edit Account"
+msgstr ""
+
+#: templates/account-sidebar.php:21
+#@ virtue
+msgid "Logout"
+msgstr ""
+
+#: templates/comment.php:7
+#@ virtue
+msgid "(Edit)"
+msgstr ""
+
+#: templates/comments.php:8
+#, php-format
+#@ virtue
+msgid "One Response "
+msgid_plural "%1$s Responses "
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/comments.php:18
+#@ virtue
+msgid "&larr; Older comments"
+msgstr ""
+
+#: templates/comments.php:21
+#@ virtue
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: templates/comments.php:31
+#: templates/comments.php:43
+#@ virtue
+msgid "Comments are closed."
+msgstr ""
+
+#: templates/comments.php:54
+#@ virtue
+msgid "Leave a Reply"
+msgstr ""
+
+#: templates/comments.php:54
+#: woocommerce/single-product-reviews.php:58
+#, php-format
+#@ virtue
+#@ woocommerce
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: templates/comments.php:57
+#, php-format
+#@ virtue
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: templates/comments.php:62
+#, php-format
+#@ virtue
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr ""
+
+#: templates/comments.php:63
+#@ virtue
+msgid "Log out of this account"
+msgstr ""
+
+#: templates/comments.php:63
+#@ virtue
+msgid "Log out &raquo;"
+msgstr ""
+
+#: templates/comments.php:70
+#@ virtue
+msgid "Email (will not be published)"
+msgstr ""
+
+#: templates/comments.php:72
+#@ virtue
+msgid "Website"
+msgstr ""
+
+#: templates/comments.php:83
+#@ virtue
+msgid "Comment"
+msgstr ""
+
+#: templates/comments.php:85
+#@ virtue
+msgid "Submit Comment"
+msgstr ""
+
+#: templates/content-fullpost.php:78
+#: templates/content-fullpostfull.php:78
+#: templates/content-single.php:94
+#: templates/content-singleportfolio.php:260
+#@ virtue
+msgid "Pages:"
+msgstr ""
+
+#: templates/entry-meta-subhead.php:3
+#@ virtue
+msgid "by"
+msgstr ""
+
+#: templates/entry-meta-subhead.php:5
+#@ virtue
+msgid "posted in:"
+msgstr ""
+
+#: templates/entry-meta.php:2
+#@ virtue
+msgid "By"
+msgstr ""
+
+#: templates/header.php:81
+#@ virtue
+msgid "Menu"
+msgstr ""
+
+#: templates/home/blog-home.php:3
+#@ virtue
+msgid "Latest from the Blog"
+msgstr ""
+
+#: templates/home/blog-home.php:92
+#@ virtue
+msgid "READ MORE"
+msgstr ""
+
+#: templates/home/portfolio-carousel.php:2
+#@ virtue
+msgid "Featured Projects"
+msgstr ""
+
+#: templates/recentportfolio-carousel.php:2
+#@ virtue
+msgid "Recent Projects"
+msgstr ""
+
+#: templates/similarblog-carousel.php:2
+#@ virtue
+msgid "Similar Posts"
+msgstr ""
+
+#: themeoptions/extensions/customizer/extension_customizer.php:480
+#: themeoptions/framework.php:1852
+#@ redux-framework
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: themeoptions/extensions/customizer/extension_customizer.php:481
+#: themeoptions/framework.php:1860
+#@ redux-framework
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: themeoptions/extensions/customizer/extension_customizer.php:482
+#: themeoptions/framework.php:1876
+#@ redux-framework
+msgid "Your current options will be replaced with the values of this preset. Would you like to proceed?"
+msgstr ""
+
+#: themeoptions/extensions/customizer/extension_customizer.php:515
+#@ redux-framework
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: themeoptions/extensions/customizer/extension_customizer.php:516
+#@ redux-framework
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: themeoptions/extensions/customizer/extension_customizer.php:517
+#@ redux-framework
+msgid "Your current options will be replaced with the values of this preset.  Would you like to proceed?"
+msgstr ""
+
+#: themeoptions/framework.php:199
+#, php-format
+#@ redux-framework
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: themeoptions/framework.php:199
+#@ redux-framework
+msgid "Redux Framework"
+msgstr ""
+
+#: themeoptions/framework.php:203
+#: themeoptions/framework.php:207
+#@ redux-framework
+msgid "Options"
+msgstr ""
+
+#: themeoptions/framework.php:1868
+#@ redux-framework
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: themeoptions/framework.php:1883
+#@ redux-framework
+msgid "Please Wait"
+msgstr ""
+
+#: themeoptions/framework.php:2030
+#@ redux-framework
+msgid "Hints"
+msgstr ""
+
+#: themeoptions/framework.php:2031
+#@ redux-framework
+msgid "<p></p>"
+msgstr ""
+
+#: themeoptions/framework.php:3208
+#@ redux-framework
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: themeoptions/framework.php:3255
+#@ redux-framework
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: themeoptions/framework.php:3283
+#@ redux-framework
+msgid "Expand"
+msgstr ""
+
+#: themeoptions/framework.php:3285
+#: themeoptions/framework.php:3593
+#@ redux-framework
+msgid "Save Changes"
+msgstr ""
+
+#: themeoptions/framework.php:3289
+#: themeoptions/framework.php:3597
+#@ redux-framework
+msgid "Reset Section"
+msgstr ""
+
+#: themeoptions/framework.php:3291
+#: themeoptions/framework.php:3599
+#@ redux-framework
+msgid "Reset All"
+msgstr ""
+
+#: themeoptions/framework.php:3296
+#: themeoptions/framework.php:3604
+#@ redux-framework
+msgid "Working..."
+msgstr ""
+
+#: themeoptions/framework.php:3316
+#@ redux-framework
+msgid "Settings Imported!"
+msgstr ""
+
+#: themeoptions/framework.php:3331
+#@ redux-framework
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: themeoptions/framework.php:3345
+#@ redux-framework
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: themeoptions/framework.php:3359
+#@ redux-framework
+msgid "Settings Saved!"
+msgstr ""
+
+#: themeoptions/framework.php:3377
+#@ redux-framework
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: themeoptions/framework.php:3385
+#@ redux-framework
+msgid "error(s) were found!"
+msgstr ""
+
+#: themeoptions/framework.php:3393
+#@ redux-framework
+msgid "warning(s) were found!"
+msgstr ""
+
+#: themeoptions/framework.php:3457
+#: themeoptions/framework.php:3536
+#@ redux-framework
+msgid "System Info"
+msgstr ""
+
+#: themeoptions/inc/class.redux_filesystem.php:22
+#@ redux-framework
+msgid "Unable to create a required directory. Please ensure that"
+msgstr ""
+
+#: themeoptions/inc/class.redux_filesystem.php:24
+#@ redux-framework
+msgid "has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: themeoptions/inc/class.redux_functions.php:253
+#@ redux-framework
+msgid "Dismiss"
+msgstr ""
+
+#: themeoptions/inc/fields/background/field_background.php:124
+#: themeoptions/inc/fields/color/field_color.php:72
+#@ redux-framework
+msgid "Transparent"
+msgstr ""
+
+#: themeoptions/inc/fields/background/field_background.php:141
+#@ redux-framework
+msgid "Background Repeat"
+msgstr ""
+
+#: themeoptions/inc/fields/background/field_background.php:157
+#@ redux-framework
+msgid "Background Clip"
+msgstr ""
+
+#: themeoptions/inc/fields/background/field_background.php:173
+#@ redux-framework
+msgid "Background Origin"
+msgstr ""
+
+#: themeoptions/inc/fields/background/field_background.php:188
+#@ redux-framework
+msgid "Background Size"
+msgstr ""
+
+#: themeoptions/inc/fields/background/field_background.php:203
+#@ redux-framework
+msgid "Background Attachment"
+msgstr ""
+
+#: themeoptions/inc/fields/background/field_background.php:223
+#@ redux-framework
+msgid "Background Position"
+msgstr ""
+
+#: themeoptions/inc/fields/background/field_background.php:277
+#: themeoptions/inc/fields/media/field_media.php:149
+#@ redux-framework
+msgid "No media selected"
+msgstr ""
+
+#: themeoptions/inc/fields/multi_text/field_multi_text.php:61
+#@ redux-framework
+msgid "Add More"
+msgstr ""
+
+#: themeoptions/inc/fields/select/field_select.php:82
+#@ redux-framework
+msgid "Select an item"
+msgstr ""
+
+#: themeoptions/inc/fields/select/field_select.php:126
+#@ redux-framework
+msgid "No items of this type were found."
+msgstr ""
+
+#: themeoptions/inc/fields/switch/field_switch.php:41
+#@ redux-framework
+msgid "On"
+msgstr ""
+
+#: themeoptions/inc/fields/switch/field_switch.php:44
+#@ redux-framework
+msgid "Off"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:227
+#@ redux-framework
+msgid "Font Family"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:228
+#@ redux-framework
+msgid "Font family"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:254
+#: themeoptions/inc/fields/typography/field_typography.php:255
+#@ redux-framework
+msgid "Backup Font Family"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:269
+#: themeoptions/inc/fields/typography/field_typography.php:276
+#@ redux-framework
+msgid "Font style"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:270
+#@ redux-framework
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:276
+#@ redux-framework
+msgid "Style"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:316
+#@ redux-framework
+msgid "Font subsets"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:318
+#@ redux-framework
+msgid "Font Subsets"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:319
+#@ redux-framework
+msgid "Subsets"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:319
+#@ redux-framework
+msgid "Font script"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:336
+#: themeoptions/inc/fields/typography/field_typography.php:337
+#: themeoptions/inc/fields/typography/field_typography.php:338
+#@ redux-framework
+msgid "Text Align"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:359
+#: themeoptions/inc/fields/typography/field_typography.php:360
+#: themeoptions/inc/fields/typography/field_typography.php:361
+#@ redux-framework
+msgid "Text Transform"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:382
+#: themeoptions/inc/fields/typography/field_typography.php:383
+#: themeoptions/inc/fields/typography/field_typography.php:384
+#@ redux-framework
+msgid "Font Variant"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:402
+#: themeoptions/inc/fields/typography/field_typography.php:403
+#: themeoptions/inc/fields/typography/field_typography.php:404
+#@ redux-framework
+msgid "Text Decoration"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:426
+#: themeoptions/inc/fields/typography/field_typography.php:427
+#@ redux-framework
+msgid "Font Size"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:427
+#@ redux-framework
+msgid "Size"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:435
+#: themeoptions/inc/fields/typography/field_typography.php:436
+#@ redux-framework
+msgid "Line Height"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:436
+#@ redux-framework
+msgid "Height"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:444
+#: themeoptions/inc/fields/typography/field_typography.php:445
+#@ redux-framework
+msgid "Word Spacing"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:453
+#: themeoptions/inc/fields/typography/field_typography.php:454
+#@ redux-framework
+msgid "Letter Spacing"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:472
+#@ redux-framework
+msgid "Font Color"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:474
+#@ redux-framework
+msgid "Font color"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:841
+#@ redux-framework
+msgid "Standard Fonts"
+msgstr ""
+
+#: themeoptions/inc/fields/typography/field_typography.php:942
+#@ redux-framework
+msgid "Google Webfonts"
+msgstr ""
+
+#: themeoptions/inc/import_export.php:78
+#@ redux-framework
+msgid "Import / Export Options"
+msgstr ""
+
+#: themeoptions/inc/import_export.php:81
+#@ redux-framework
+msgid "Import Options"
+msgstr ""
+
+#: themeoptions/inc/import_export.php:82
+#@ redux-framework
+msgid "Import from file"
+msgstr ""
+
+#: themeoptions/inc/import_export.php:82
+#@ redux-framework
+msgid "Import from URL"
+msgstr ""
+
+#: themeoptions/inc/import_export.php:85
+#@ redux-framework
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: themeoptions/inc/import_export.php:90
+#@ redux-framework
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: themeoptions/inc/import_export.php:94
+#@ redux-framework
+msgid "Import"
+msgstr ""
+
+#: themeoptions/inc/import_export.php:94
+#@ redux-framework
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#: themeoptions/inc/import_export.php:97
+#@ redux-framework
+msgid "Export Options"
+msgstr ""
+
+#: themeoptions/inc/import_export.php:100
+#@ redux-framework
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+#: themeoptions/inc/import_export.php:104
+#@ redux-framework
+msgid "Copy"
+msgstr ""
+
+#: themeoptions/inc/import_export.php:104
+#@ redux-framework
+msgid "Copy Link"
+msgstr ""
+
+#: themeoptions/inc/import_export.php:140
+#@ redux-framework
+msgid "Import / Export"
+msgstr ""
+
+#: themeoptions/inc/validation/color/validation_color.php:15
+#: themeoptions/inc/validation/color_rgba/validation_color_rgba.php:14
+#: themeoptions/inc/validation/colorrgba/validation_colorrgba.php:16
+#@ redux-framework
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: themeoptions/inc/validation/comma_numeric/validation_comma_numeric.php:16
+#@ redux-framework
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: themeoptions/inc/validation/date/validation_date.php:16
+#@ redux-framework
+msgid "This field must be a valid date."
+msgstr ""
+
+#: themeoptions/inc/validation/email/validation_email.php:16
+#: themeoptions/inc/validation/email_not_empty/validation_email_not_empty.php:16
+#@ redux-framework
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: themeoptions/inc/validation/no_html/validation_no_html.php:15
+#@ redux-framework
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: themeoptions/inc/validation/no_special_chars/validation_no_special_chars.php:16
+#@ redux-framework
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: themeoptions/inc/validation/not_empty/validation_not_empty.php:16
+#@ redux-framework
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: themeoptions/inc/validation/numeric/validation_numeric.php:16
+#: themeoptions/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+#@ redux-framework
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: themeoptions/inc/validation/url/validation_url.php:16
+#@ redux-framework
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:50
+#@ pinnacle
+msgid "Icon"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:55
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:53
+#, php-format
+#@ virtue
+msgid "New %s"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:110
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:180
+#@ virtue
+msgid "Upload Icon"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:121
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:187
+#@ virtue
+msgid "Select an Icon"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:141
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:206
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:121
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:166
+#@ virtue
+msgid "URL"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:143
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:210
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:123
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:170
+#@ virtue
+msgid "Description"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:144
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:212
+#@ virtue
+msgid "Icon Link"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:148
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:217
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:128
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:177
+#@ virtue
+msgid "Open Link in New Tab/Window"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:158
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:226
+#@ virtue
+msgid "Delete Icon"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_icons/kad_icons/field_kad_icons.php:229
+#@ virtue
+msgid "Add Icon"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:48
+#@ virtue
+msgid "Slide"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:124
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:172
+#@ virtue
+msgid "Slide Link"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:137
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:185
+#@ virtue
+msgid "Delete Slide"
+msgstr ""
+
+#: themeoptions/options/extensions/kad_slides/kad_slides/field_kad_slides.php:188
+#, php-format
+#@ virtue
+msgid "Add %s"
+msgstr ""
+
+#: themeoptions/options.php:33
+#@ virtue
+msgid "Main Settings"
+msgstr ""
+
+#: themeoptions/options.php:35
+#@ virtue
+msgid "Welcome to Virtue Theme Options"
+msgstr ""
+
+#: themeoptions/options.php:36
+#@ virtue
+msgid "This theme was developed by"
+msgstr ""
+
+#: themeoptions/options.php:37
+#@ virtue
+msgid "For theme documentation visit"
+msgstr ""
+
+#: themeoptions/options.php:39
+#@ virtue
+msgid "For support please visit"
+msgstr ""
+
+#: themeoptions/options.php:47
+#@ virtue
+msgid "Site Layout Style"
+msgstr ""
+
+#: themeoptions/options.php:48
+#@ virtue
+msgid "Select Boxed or Wide Site Layout Style"
+msgstr ""
+
+#: themeoptions/options.php:59
+#@ virtue
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: themeoptions/options.php:60
+#@ virtue
+msgid "Select how many columns for footer widgets"
+msgstr ""
+
+#: themeoptions/options.php:71
+#@ virtue
+msgid "Logo Options"
+msgstr ""
+
+#: themeoptions/options.php:77
+#@ virtue
+msgid "Logo Layout"
+msgstr ""
+
+#: themeoptions/options.php:78
+#@ virtue
+msgid "Choose how you want your logo to be laid out"
+msgstr ""
+
+#: themeoptions/options.php:90
+#@ virtue
+msgid "Logo"
+msgstr ""
+
+#: themeoptions/options.php:92
+#@ virtue
+msgid "Upload your Logo. If left blank theme will use site name."
+msgstr ""
+
+#: themeoptions/options.php:98
+#@ virtue
+msgid "Upload Your @2x Logo for Retina Screens"
+msgstr ""
+
+#: themeoptions/options.php:100
+#@ virtue
+msgid "Should be twice the pixel size of your normal logo."
+msgstr ""
+
+#: themeoptions/options.php:105
+#@ virtue
+msgid "Sitename Logo Font"
+msgstr ""
+
+#: themeoptions/options.php:120
+#@ virtue
+msgid "Choose size and style your sitename, if you don't use an image logo."
+msgstr ""
+
+#: themeoptions/options.php:131
+#@ virtue
+msgid "Site Tagline - Below Logo\""
+msgstr ""
+
+#: themeoptions/options.php:132
+#@ virtue
+msgid "An optional line of text below your logo"
+msgstr ""
+
+#: themeoptions/options.php:140
+#@ virtue
+msgid "Site Tagline Font"
+msgstr ""
+
+#: themeoptions/options.php:153
+#@ virtue
+msgid "Choose size and style your site tagline"
+msgstr ""
+
+#: themeoptions/options.php:164
+#: themeoptions/options.php:174
+#: themeoptions/options.php:184
+#: themeoptions/options.php:194
+#@ virtue
+msgid "Logo Spacing"
+msgstr ""
+
+#: themeoptions/options.php:165
+#: themeoptions/options.php:205
+#@ virtue
+msgid "Top Spacing"
+msgstr ""
+
+#: themeoptions/options.php:175
+#: themeoptions/options.php:215
+#@ virtue
+msgid "Bottom Spacing"
+msgstr ""
+
+#: themeoptions/options.php:185
+#@ virtue
+msgid "Left Spacing"
+msgstr ""
+
+#: themeoptions/options.php:195
+#@ virtue
+msgid "Right Spacing"
+msgstr ""
+
+#: themeoptions/options.php:204
+#: themeoptions/options.php:214
+#@ virtue
+msgid "Primary Menu Spacing"
+msgstr ""
+
+#: themeoptions/options.php:225
+#@ virtue
+msgid "Sitewide Banner"
+msgstr ""
+
+#: themeoptions/options.php:227
+#@ virtue
+msgid "Upload a banner for bottom of header."
+msgstr ""
+
+#: themeoptions/options.php:234
+#@ virtue
+msgid "Topbar Settings"
+msgstr ""
+
+#: themeoptions/options.php:239
+#@ virtue
+msgid "Use Topbar?"
+msgstr ""
+
+#: themeoptions/options.php:240
+#@ virtue
+msgid "Choose to show or hide topbar"
+msgstr ""
+
+#: themeoptions/options.php:246
+#@ virtue
+msgid "Use Topbar Icon Menu?"
+msgstr ""
+
+#: themeoptions/options.php:247
+#@ virtue
+msgid "Choose to show or hide topbar icon Menu"
+msgstr ""
+
+#: themeoptions/options.php:253
+#@ virtue
+msgid "Topbar Icon Menu"
+msgstr ""
+
+#: themeoptions/options.php:254
+#@ virtue
+msgid "Choose your icons for the topbar icon menu."
+msgstr ""
+
+#: themeoptions/options.php:260
+#@ virtue
+msgid "Show Cart total in topbar?"
+msgstr ""
+
+#: themeoptions/options.php:261
+#@ virtue
+msgid "This only works if using woocommerce"
+msgstr ""
+
+#: themeoptions/options.php:267
+#@ virtue
+msgid "Display Search in Topbar?"
+msgstr ""
+
+#: themeoptions/options.php:268
+#@ virtue
+msgid "Choose to show or hide search in topbar"
+msgstr ""
+
+#: themeoptions/options.php:274
+#@ virtue
+msgid "Enable widget area in right of Topbar?"
+msgstr ""
+
+#: themeoptions/options.php:275
+#@ virtue
+msgid "Note this will hide remove search (you can re-enable it my adding it to the widget area)"
+msgstr ""
+
+#: themeoptions/options.php:281
+#@ virtue
+msgid "Topbar Layout Switch"
+msgstr ""
+
+#: themeoptions/options.php:282
+#@ virtue
+msgid "This moves the left items to the right and right items to the left."
+msgstr ""
+
+#: themeoptions/options.php:290
+#@ virtue
+msgid "Slider Settings"
+msgstr ""
+
+#: themeoptions/options.php:291
+#@ virtue
+msgid "Home Page Slider Options"
+msgstr ""
+
+#: themeoptions/options.php:296
+#@ virtue
+msgid "Choose a Home Image Slider"
+msgstr ""
+
+#: themeoptions/options.php:297
+#@ virtue
+msgid "If you don't want an image slider on your home page choose none."
+msgstr ""
+
+#: themeoptions/options.php:306
+#: themeoptions/options.php:409
+#@ virtue
+msgid "Slider Images"
+msgstr ""
+
+#: themeoptions/options.php:307
+#: themeoptions/options.php:410
+#@ virtue
+msgid "Use large images for best results."
+msgstr ""
+
+#: themeoptions/options.php:313
+#: themeoptions/options.php:417
+#@ virtue
+msgid "Slider Max Height"
+msgstr ""
+
+#: themeoptions/options.php:314
+#: themeoptions/options.php:324
+#: themeoptions/options.php:418
+#: themeoptions/options.php:429
+#@ virtue
+msgid "Note: does not work if images are smaller than max."
+msgstr ""
+
+#: themeoptions/options.php:323
+#: themeoptions/options.php:428
+#@ virtue
+msgid "Slider Max Width"
+msgstr ""
+
+#: themeoptions/options.php:333
+#: themeoptions/options.php:439
+#@ virtue
+msgid "Auto Play?"
+msgstr ""
+
+#: themeoptions/options.php:334
+#: themeoptions/options.php:440
+#@ virtue
+msgid "This determines if a slider automatically scrolls"
+msgstr ""
+
+#: themeoptions/options.php:340
+#: themeoptions/options.php:447
+#@ virtue
+msgid "Slider Pause Time"
+msgstr ""
+
+#: themeoptions/options.php:341
+#: themeoptions/options.php:448
+#@ virtue
+msgid "How long to pause on each slide, in milliseconds."
+msgstr ""
+
+#: themeoptions/options.php:350
+#: themeoptions/options.php:458
+#@ virtue
+msgid "Transition Type"
+msgstr ""
+
+#: themeoptions/options.php:351
+#: themeoptions/options.php:459
+#@ virtue
+msgid "Choose a transition type"
+msgstr ""
+
+#: themeoptions/options.php:358
+#: themeoptions/options.php:467
+#@ virtue
+msgid "Slider Transition Time"
+msgstr ""
+
+#: themeoptions/options.php:359
+#: themeoptions/options.php:468
+#@ virtue
+msgid "How long for slide transitions, in milliseconds."
+msgstr ""
+
+#: themeoptions/options.php:368
+#: themeoptions/options.php:478
+#@ virtue
+msgid "Show Captions?"
+msgstr ""
+
+#: themeoptions/options.php:369
+#: themeoptions/options.php:479
+#@ virtue
+msgid "Choose to show or hide captions"
+msgstr ""
+
+#: themeoptions/options.php:375
+#: themeoptions/options.php:486
+#@ virtue
+msgid "Video Embed Code"
+msgstr ""
+
+#: themeoptions/options.php:376
+#: themeoptions/options.php:487
+#@ virtue
+msgid "If your using a video on the home page place video embed code here."
+msgstr ""
+
+#: themeoptions/options.php:385
+#@ virtue
+msgid "Mobile Slider"
+msgstr ""
+
+#: themeoptions/options.php:386
+#@ virtue
+msgid "Create a more lightweight home slider for your mobile visitors."
+msgstr ""
+
+#: themeoptions/options.php:391
+#@ virtue
+msgid "Would you like to use this feature?"
+msgstr ""
+
+#: themeoptions/options.php:392
+#@ virtue
+msgid "Choose if you would like to show a different slider on your home page for your mobile visitors."
+msgstr ""
+
+#: themeoptions/options.php:398
+#@ virtue
+msgid "Choose a Slider for Mobile"
+msgstr ""
+
+#: themeoptions/options.php:399
+#@ virtue
+msgid "Choose which slider you would like to show for mobile viewers."
+msgstr ""
+
+#: themeoptions/options.php:496
+#@ virtue
+msgid "Home Layout"
+msgstr ""
+
+#: themeoptions/options.php:503
+#@ virtue
+msgid "Display a sidebar on the Home Page?"
+msgstr ""
+
+#: themeoptions/options.php:504
+#@ virtue
+msgid "This determines if there is a sidebar on the home page."
+msgstr ""
+
+#: themeoptions/options.php:514
+#@ virtue
+msgid "Choose a Sidebar for your Home Page"
+msgstr ""
+
+#: themeoptions/options.php:524
+#@ virtue
+msgid "Homepage Layout Manager"
+msgstr ""
+
+#: themeoptions/options.php:525
+#@ virtue
+msgid "Organize how you want the layout to appear on the homepage"
+msgstr ""
+
+#: themeoptions/options.php:530
+#@ virtue
+msgid "Page Title"
+msgstr ""
+
+#: themeoptions/options.php:531
+#@ virtue
+msgid "Page Content"
+msgstr ""
+
+#: themeoptions/options.php:532
+#@ virtue
+msgid "Portfolio Carousel"
+msgstr ""
+
+#: themeoptions/options.php:533
+#: themeoptions/options.php:625
+#@ virtue
+msgid "Icon Menu"
+msgstr ""
+
+#: themeoptions/options.php:537
+#@ virtue
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: themeoptions/options.php:545
+#@ virtue
+msgid "Home Blog Settings"
+msgstr ""
+
+#: themeoptions/options.php:550
+#@ virtue
+msgid "Home Blog Title"
+msgstr ""
+
+#: themeoptions/options.php:551
+#@ virtue
+msgid "ex: Latest from the blog"
+msgstr ""
+
+#: themeoptions/options.php:556
+#@ virtue
+msgid "Choose How many posts on Homepage"
+msgstr ""
+
+#: themeoptions/options.php:567
+#@ virtue
+msgid "Limit posts to a Category"
+msgstr ""
+
+#: themeoptions/options.php:568
+#@ virtue
+msgid "Leave blank to select all"
+msgstr ""
+
+#: themeoptions/options.php:575
+#@ virtue
+msgid "Home Portfolio Carousel Settings"
+msgstr ""
+
+#: themeoptions/options.php:580
+#@ virtue
+msgid "Home Portfolio Carousel title"
+msgstr ""
+
+#: themeoptions/options.php:581
+#@ virtue
+msgid "ex: Portfolio Carousel title"
+msgstr ""
+
+#: themeoptions/options.php:588
+#@ virtue
+msgid "Portfolio Carousel Category Type"
+msgstr ""
+
+#: themeoptions/options.php:589
+#@ virtue
+msgid "Leave blank to select all types"
+msgstr ""
+
+#: themeoptions/options.php:596
+#@ virtue
+msgid "Choose how many portfolio items are in carousel"
+msgstr ""
+
+#: themeoptions/options.php:605
+#@ virtue
+msgid "Portfolio Carousel Order by"
+msgstr ""
+
+#: themeoptions/options.php:606
+#@ virtue
+msgid "Choose how the portfolio items should be ordered in the carousel."
+msgstr ""
+
+#: themeoptions/options.php:614
+#@ virtue
+msgid "Display Portfolio Types under Title"
+msgstr ""
+
+#: themeoptions/options.php:620
+#@ virtue
+msgid "Home Icon Menu"
+msgstr ""
+
+#: themeoptions/options.php:626
+#@ virtue
+msgid "Choose your icons for the icon menu."
+msgstr ""
+
+#: themeoptions/options.php:632
+#@ virtue
+msgid "Choose how many columns in each row"
+msgstr ""
+
+#: themeoptions/options.php:641
+#@ virtue
+msgid "Page Content Options"
+msgstr ""
+
+#: themeoptions/options.php:646
+#@ virtue
+msgid "Latest Post Display"
+msgstr ""
+
+#: themeoptions/options.php:647
+#@ virtue
+msgid "If Latest Post page is font page. Choose to show full post or post excerpt."
+msgstr ""
+
+#: themeoptions/options.php:659
+#@ virtue
+msgid "Shop Settings"
+msgstr ""
+
+#: themeoptions/options.php:660
+#@ virtue
+msgid "Shop Archive Page Settings"
+msgstr ""
+
+#: themeoptions/options.php:666
+#@ virtue
+msgid "Display the sidebar on shop archives?"
+msgstr ""
+
+#: themeoptions/options.php:667
+#@ virtue
+msgid "This determines if there is a sidebar on the shop and category pages."
+msgstr ""
+
+#: themeoptions/options.php:677
+#@ virtue
+msgid "Choose a Sidebar for your shop page"
+msgstr ""
+
+#: themeoptions/options.php:685
+#@ virtue
+msgid "How many products per page"
+msgstr ""
+
+#: themeoptions/options.php:695
+#@ virtue
+msgid "Show Ratings in Shop and Category Pages"
+msgstr ""
+
+#: themeoptions/options.php:696
+#@ virtue
+msgid "This determines if the rating is displayed in the product archive pages"
+msgstr ""
+
+#: themeoptions/options.php:702
+#@ virtue
+msgid "Shop Product Title Settings"
+msgstr ""
+
+#: themeoptions/options.php:707
+#@ virtue
+msgid "Shop & archive Product title Font"
+msgstr ""
+
+#: themeoptions/options.php:722
+#@ virtue
+msgid "Choose Size and Style for product titles on category and archive pages."
+msgstr ""
+
+#: themeoptions/options.php:733
+#@ virtue
+msgid "Set Product Title to Uppercase?"
+msgstr ""
+
+#: themeoptions/options.php:734
+#@ virtue
+msgid "This makes your product titles uppercase on Category pages"
+msgstr ""
+
+#: themeoptions/options.php:740
+#@ virtue
+msgid "Product title Min Height"
+msgstr ""
+
+#: themeoptions/options.php:741
+#@ virtue
+msgid "If your titles are long increase this to help align your products height."
+msgstr ""
+
+#: themeoptions/options.php:750
+#@ virtue
+msgid "Product Image Sizes"
+msgstr ""
+
+#: themeoptions/options.php:755
+#@ virtue
+msgid "Enable Product Image Crop on Catalog pages"
+msgstr ""
+
+#: themeoptions/options.php:756
+#@ virtue
+msgid "If turned off image dimensions are set by woocommerce settings - recommended width: 270px for Catalog Images"
+msgstr ""
+
+#: themeoptions/options.php:762
+#@ virtue
+msgid "Enable Product Image Crop on product Page"
+msgstr ""
+
+#: themeoptions/options.php:763
+#@ virtue
+msgid "If turned off image dimensions are set by woocommerce settings - recommended width: 468px for Single Product Image"
+msgstr ""
+
+#: themeoptions/options.php:769
+#@ virtue
+msgid "Product Page Settings"
+msgstr ""
+
+#: themeoptions/options.php:774
+#@ virtue
+msgid "Display product tabs?"
+msgstr ""
+
+#: themeoptions/options.php:775
+#@ virtue
+msgid "This determines if product tabs are displayed"
+msgstr ""
+
+#: themeoptions/options.php:781
+#@ virtue
+msgid "Display related products?"
+msgstr ""
+
+#: themeoptions/options.php:782
+#@ virtue
+msgid "This determines related products are displayed"
+msgstr ""
+
+#: themeoptions/options.php:790
+#@ virtue
+msgid "Basic Styling"
+msgstr ""
+
+#: themeoptions/options.php:791
+#@ virtue
+msgid "Basic Stylng"
+msgstr ""
+
+#: themeoptions/options.php:796
+#@ virtue
+msgid "Theme Skin Stylesheet"
+msgstr ""
+
+#: themeoptions/options.php:797
+#@ virtue
+msgid "Note* changes made in options panel will override this stylesheet. Example: Colors set in typography."
+msgstr ""
+
+#: themeoptions/options.php:806
+#@ virtue
+msgid "Primary Color"
+msgstr ""
+
+#: themeoptions/options.php:807
+#@ virtue
+msgid "Choose the default Highlight color for your site."
+msgstr ""
+
+#: themeoptions/options.php:816
+#@ virtue
+msgid "20% lighter than Primary Color"
+msgstr ""
+
+#: themeoptions/options.php:817
+#@ virtue
+msgid "This is used for hover effects"
+msgstr ""
+
+#: themeoptions/options.php:826
+#@ virtue
+msgid "Sitewide Gray Fonts"
+msgstr ""
+
+#: themeoptions/options.php:836
+#@ virtue
+msgid "Footer Font Color"
+msgstr ""
+
+#: themeoptions/options.php:848
+#@ virtue
+msgid "Advanced Styling"
+msgstr ""
+
+#: themeoptions/options.php:849
+#@ virtue
+msgid "Main Content Background"
+msgstr ""
+
+#: themeoptions/options.php:854
+#@ virtue
+msgid "Content Background Color"
+msgstr ""
+
+#: themeoptions/options.php:863
+#: themeoptions/options.php:903
+#: themeoptions/options.php:943
+#: themeoptions/options.php:983
+#: themeoptions/options.php:1023
+#: themeoptions/options.php:1063
+#: themeoptions/options.php:1103
+#@ virtue
+msgid "Upload background image or texture"
+msgstr ""
+
+#: themeoptions/options.php:868
+#: themeoptions/options.php:908
+#: themeoptions/options.php:948
+#: themeoptions/options.php:988
+#: themeoptions/options.php:1028
+#: themeoptions/options.php:1068
+#: themeoptions/options.php:1108
+#@ virtue
+msgid "Image repeat options"
+msgstr ""
+
+#: themeoptions/options.php:875
+#: themeoptions/options.php:915
+#: themeoptions/options.php:955
+#: themeoptions/options.php:995
+#: themeoptions/options.php:1035
+#: themeoptions/options.php:1075
+#: themeoptions/options.php:1115
+#@ virtue
+msgid "X image placement options"
+msgstr ""
+
+#: themeoptions/options.php:882
+#: themeoptions/options.php:922
+#: themeoptions/options.php:962
+#: themeoptions/options.php:1002
+#: themeoptions/options.php:1042
+#: themeoptions/options.php:1082
+#: themeoptions/options.php:1122
+#@ virtue
+msgid "Y image placement options"
+msgstr ""
+
+#: themeoptions/options.php:889
+#@ virtue
+msgid "Topbar Background"
+msgstr ""
+
+#: themeoptions/options.php:894
+#@ virtue
+msgid "Topbar Background Color"
+msgstr ""
+
+#: themeoptions/options.php:929
+#@ virtue
+msgid "Header Background"
+msgstr ""
+
+#: themeoptions/options.php:934
+#@ virtue
+msgid "Background Color"
+msgstr ""
+
+#: themeoptions/options.php:969
+#@ virtue
+msgid "Secondary Menu Background"
+msgstr ""
+
+#: themeoptions/options.php:974
+#@ virtue
+msgid "Secondary menu Background Color"
+msgstr ""
+
+#: themeoptions/options.php:1009
+#@ virtue
+msgid "Mobile Menu Background"
+msgstr ""
+
+#: themeoptions/options.php:1014
+#@ virtue
+msgid "Mobile Background Color"
+msgstr ""
+
+#: themeoptions/options.php:1049
+#@ virtue
+msgid "Footer Background"
+msgstr ""
+
+#: themeoptions/options.php:1054
+#@ virtue
+msgid "Footer Background Color"
+msgstr ""
+
+#: themeoptions/options.php:1089
+#@ virtue
+msgid "Body Background"
+msgstr ""
+
+#: themeoptions/options.php:1094
+#@ virtue
+msgid "Body Background Color"
+msgstr ""
+
+#: themeoptions/options.php:1129
+#@ virtue
+msgid "Fixed or Scroll"
+msgstr ""
+
+#: themeoptions/options.php:1138
+#@ virtue
+msgid "Typography"
+msgstr ""
+
+#: themeoptions/options.php:1139
+#@ virtue
+msgid "Header Font Options"
+msgstr ""
+
+#: themeoptions/options.php:1144
+#@ virtue
+msgid "H1 Headings"
+msgstr ""
+
+#: themeoptions/options.php:1159
+#@ virtue
+msgid "Choose Size and Style for h1 (This Styles Your Page Titles)"
+msgstr ""
+
+#: themeoptions/options.php:1170
+#@ virtue
+msgid "H2 Headings"
+msgstr ""
+
+#: themeoptions/options.php:1185
+#@ virtue
+msgid "Choose Size and Style for h2"
+msgstr ""
+
+#: themeoptions/options.php:1196
+#@ virtue
+msgid "H3 Headings"
+msgstr ""
+
+#: themeoptions/options.php:1211
+#@ virtue
+msgid "Choose Size and Style for h3"
+msgstr ""
+
+#: themeoptions/options.php:1222
+#@ virtue
+msgid "H4 Headings"
+msgstr ""
+
+#: themeoptions/options.php:1237
+#@ virtue
+msgid "Choose Size and Style for h4"
+msgstr ""
+
+#: themeoptions/options.php:1248
+#@ virtue
+msgid "H5 Headings"
+msgstr ""
+
+#: themeoptions/options.php:1263
+#@ virtue
+msgid "Choose Size and Style for h5"
+msgstr ""
+
+#: themeoptions/options.php:1274
+#@ virtue
+msgid "Body Font Options"
+msgstr ""
+
+#: themeoptions/options.php:1279
+#@ virtue
+msgid "Body Font"
+msgstr ""
+
+#: themeoptions/options.php:1294
+#@ virtue
+msgid "Choose Size and Style for paragraphs"
+msgstr ""
+
+#: themeoptions/options.php:1307
+#@ virtue
+msgid "Menu Settings"
+msgstr ""
+
+#: themeoptions/options.php:1308
+#@ virtue
+msgid "Primary Menu Options"
+msgstr ""
+
+#: themeoptions/options.php:1313
+#@ virtue
+msgid "Primary Menu Font"
+msgstr ""
+
+#: themeoptions/options.php:1328
+#@ virtue
+msgid "Choose Size and Style for primary menu"
+msgstr ""
+
+#: themeoptions/options.php:1339
+#@ virtue
+msgid "Secondary Menu Options"
+msgstr ""
+
+#: themeoptions/options.php:1344
+#@ virtue
+msgid "Secondary Menu Font"
+msgstr ""
+
+#: themeoptions/options.php:1359
+#@ virtue
+msgid "Choose Size and Style for secondary menu"
+msgstr ""
+
+#: themeoptions/options.php:1370
+#@ virtue
+msgid "Mobile Menu Options"
+msgstr ""
+
+#: themeoptions/options.php:1375
+#@ virtue
+msgid "Mobile Menu Font"
+msgstr ""
+
+#: themeoptions/options.php:1390
+#@ virtue
+msgid "Choose Size and Style for Mobile Menu"
+msgstr ""
+
+#: themeoptions/options.php:1404
+#: themeoptions/options.php:1405
+#@ virtue
+msgid "Misc Settings"
+msgstr ""
+
+#: themeoptions/options.php:1412
+#@ virtue
+msgid "All Projects Portfolio Page"
+msgstr ""
+
+#: themeoptions/options.php:1413
+#@ virtue
+msgid "This sets the link in every single portfolio page. *note: You still have to set the page template to portfolio."
+msgstr ""
+
+#: themeoptions/options.php:1418
+#@ virtue
+msgid "Allow Comments on Portfolio Posts"
+msgstr ""
+
+#: themeoptions/options.php:1419
+#@ virtue
+msgid "Turn on to allow Comments on Portfolio posts"
+msgstr ""
+
+#: themeoptions/options.php:1425
+#@ virtue
+msgid "Hide Image Border"
+msgstr ""
+
+#: themeoptions/options.php:1426
+#@ virtue
+msgid "Choose to show or hide image border for images added in pages or posts"
+msgstr ""
+
+#: themeoptions/options.php:1432
+#@ virtue
+msgid "Blog Archive"
+msgstr ""
+
+#: themeoptions/options.php:1433
+#@ virtue
+msgid "Choose to show full post or post excerpt."
+msgstr ""
+
+#: themeoptions/options.php:1441
+#@ virtue
+msgid "Show Comments Closed Text?"
+msgstr ""
+
+#: themeoptions/options.php:1442
+#@ virtue
+msgid "Choose to show or hide comments closed alert below posts."
+msgstr ""
+
+#: themeoptions/options.php:1448
+#@ virtue
+msgid "Show Author Icon with posts?"
+msgstr ""
+
+#: themeoptions/options.php:1449
+#@ virtue
+msgid "Choose to show or hide author icon under post title."
+msgstr ""
+
+#: themeoptions/options.php:1455
+#@ virtue
+msgid "Show Previous and Next posts links?"
+msgstr ""
+
+#: themeoptions/options.php:1456
+#@ virtue
+msgid "Choose to show or hide previous and next post links in the footer of a single post."
+msgstr ""
+
+#: themeoptions/options.php:1463
+#@ virtue
+msgid "Custom Favicon"
+msgstr ""
+
+#: themeoptions/options.php:1464
+#@ virtue
+msgid "Upload a 16px x 16px png/gif/ico image that will represent your website favicon."
+msgstr ""
+
+#: themeoptions/options.php:1469
+#@ virtue
+msgid "Contact Form Email"
+msgstr ""
+
+#: themeoptions/options.php:1470
+#@ virtue
+msgid "Sets the email for the contact page email form."
+msgstr ""
+
+#: themeoptions/options.php:1476
+#@ virtue
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: themeoptions/options.php:1477
+#@ virtue
+msgid "Write your own copyright text here. You can use the following shortcodes in your footer text: [copyright] [site-name] [the-year]"
+msgstr ""
+
+#: themeoptions/options.php:1483
+#@ virtue
+msgid "Blog Post Defaults"
+msgstr ""
+
+#: themeoptions/options.php:1488
+#@ virtue
+msgid "Blog Post Summary Default"
+msgstr ""
+
+#: themeoptions/options.php:1497
+#@ virtue
+msgid "Defualt post summary feature Image"
+msgstr ""
+
+#: themeoptions/options.php:1499
+#@ virtue
+msgid "Replace theme default feature image for posts without a featured image"
+msgstr ""
+
+#: themeoptions/options.php:1504
+#@ virtue
+msgid "Blog Post Head Content Default"
+msgstr ""
+
+#: themeoptions/options.php:1512
+#@ virtue
+msgid "Create Sidebars"
+msgstr ""
+
+#: themeoptions/options.php:1517
+#@ virtue
+msgid "Create Custom Sidebars"
+msgstr ""
+
+#: themeoptions/options.php:1518
+#@ virtue
+msgid "Type new sidebar name into textbox"
+msgstr ""
+
+#: themeoptions/options.php:1519
+#@ virtue
+msgid "Extra Sidebar"
+msgstr ""
+
+#: themeoptions/options.php:1524
+#@ virtue
+msgid "Wordpress Galleries"
+msgstr ""
+
+#: themeoptions/options.php:1529
+#@ virtue
+msgid "Enable Virtue Galleries to override Wordpress"
+msgstr ""
+
+#: themeoptions/options.php:1530
+#@ virtue
+msgid "Disable this if using a plugin to customize galleries, for example jetpack tiled gallery."
+msgstr ""
+
+#: themeoptions/options.php:1538
+#@ virtue
+msgid "Advanced Settings"
+msgstr ""
+
+#: themeoptions/options.php:1539
+#@ virtue
+msgid "Custom CSS Box"
+msgstr ""
+
+#: themeoptions/options.php:1544
+#@ virtue
+msgid "Custom CSS"
+msgstr ""
+
+#: themeoptions/options.php:1545
+#@ virtue
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: themeoptions/options.php:1563
+#: themeoptions/options.php:1564
+#@ virtue
+msgid "Theme Options"
+msgstr ""
+
+#: themeoptions/options.php:1571
+#@ virtue
+msgid "Thank you for using the Virtue Theme by <a href=\"http://kadencethemes.com/\" target=\"_blank\">Kadence Themes</a>."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:16
+#@ woocommerce
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:21
+#@ woocommerce
+msgid "Cart Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:75
+#@ woocommerce
+msgid "Order Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:87
+#, php-format
+#@ woocommerce
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:90
+#, php-format
+#@ woocommerce
+msgid "Note: Shipping and taxes are estimated%s and will be updated during checkout based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+#@ woocommerce
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+#@ woocommerce
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+#@ woocommerce
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+#@ woocommerce
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:47
+#@ woocommerce
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:74
+#@ woocommerce
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118
+#@ woocommerce
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118
+#@ woocommerce
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:118
+#@ woocommerce
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+#@ woocommerce
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+#@ woocommerce
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:38
+#@ woocommerce
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:22
+#@ woocommerce
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:28
+#@ woocommerce
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:45
+#: woocommerce/cart/shipping-calculator.php:51
+#: woocommerce/cart/shipping-calculator.php:63
+#@ woocommerce
+msgid "State / county"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:52
+#@ woocommerce
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:72
+#@ woocommerce
+msgid "City"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:80
+#@ woocommerce
+msgid "Postcode / Zip"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:86
+#@ woocommerce
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+#@ woocommerce
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:17
+#@ woocommerce
+msgid "To track your order please enter your Order ID in the box below and press return. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ woocommerce
+msgid "Order ID"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:19
+#@ woocommerce
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#@ woocommerce
+msgid "Billing Email"
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:20
+#@ woocommerce
+msgid "Email you used during checkout."
+msgstr ""
+
+#: woocommerce/order/form-tracking.php:23
+#@ woocommerce
+msgid "Track"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:80
+#@ woocommerce
+msgid "Choose an option"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:128
+#@ woocommerce
+msgid "Clear selection"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:161
+#@ woocommerce
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/rating.php:23
+#, php-format
+#@ woocommerce
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:25
+#: woocommerce/single-product/review.php:27
+#@ woocommerce
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+#@ woocommerce
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+#@ woocommerce
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:34
+#@ woocommerce
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:43
+#@ woocommerce
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:21
+#, php-format
+#@ woocommerce
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:23
+#@ woocommerce
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:44
+#@ woocommerce
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+#@ woocommerce
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+#@ woocommerce
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+#@ woocommerce
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:67
+#@ woocommerce
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:73
+#@ woocommerce
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+#@ woocommerce
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+#@ woocommerce
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#@ woocommerce
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+#@ woocommerce
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+#@ woocommerce
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+#@ woocommerce
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+#@ woocommerce
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+#@ woocommerce
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product.php:27
+#: woocommerce/single-product.php:29
+#@ virtue
+msgid "Back to"
+msgstr ""
+
+#: woocommerce/single-product.php:29
+#@ virtue
+msgid "Shop"
+msgstr ""
+
