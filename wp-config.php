@@ -19,14 +19,19 @@ define('WP_CACHE', true); //Added by WP-Cache Manager
 define( 'WPCACHEHOME', 'D:\webapp\wordpress\wp-content\plugins\wp-super-cache/' ); //Added by WP-Cache Manager
 define('DB_NAME', 'wordpress');
 
+$serverName = env("MYSQL_PORT_3306_TCP_ADDR", "tcp://10.10.26.58:3306");
+$databaseName = env("MYSQL_INSTANCE_NAME", "RToVXYzerwbI5sBt");
+$username = env("MYSQL_USERNAME", "uvoreCjOP0UZfzI7");
+$password = env("MYSQL_PASSWORD", "ppQVRoyO3xaBeXCG8");
+
 /** MySQL 数据库用户名 */
-define('DB_USER', '*');
+define('DB_USER', $username);
 
 /** MySQL 数据库密码 */
-define('DB_PASSWORD', '*');
+define('DB_PASSWORD', $password);
 
 /** MySQL 主机 */
-define('DB_HOST', 'localhost');
+define('DB_HOST', $serverName);
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8');
