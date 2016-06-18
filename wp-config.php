@@ -26,7 +26,7 @@ define('DB_USER', "uvoreCjOP0UZfzI7");
 define('DB_PASSWORD', "ppQVRoyO3xaBeXCG8");
 
 /** MySQL 主机 */
-define('DB_HOST', "tcp://10.10.26.58:3306");
+define('DB_HOST', "10.10.26.58");
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8');
